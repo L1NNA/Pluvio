@@ -6,6 +6,11 @@
 **Python Version:** 3.9  
 **Torch Version:** 1.10 ≤ torch < 2.3
 
+
+## 🧩 Other files
+datasets and sentence-transformer containing CVIB: See Releases.
+
+
 ### Install Compatible Dependencies
 
 ```bash
@@ -15,4 +20,7 @@ pip install sentence-transformers==2.2.2 \
             accelerate==0.20.3 \
             tokenizers==0.13.3 \
             safetensors==0.3.2 \
-            "torch>=1.10,<2.3"
+            "torch>=1.10,<2.3" 
+
+
+
